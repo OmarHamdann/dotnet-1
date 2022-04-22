@@ -1,0 +1,15 @@
+D:\ASP\dotnet\dotnet-1\bin\Debug\net6.0\dotnet-1.exe
+D:\ASP\dotnet\dotnet-1\bin\Debug\net6.0\dotnet-1.deps.json
+D:\ASP\dotnet\dotnet-1\bin\Debug\net6.0\dotnet-1.runtimeconfig.json
+D:\ASP\dotnet\dotnet-1\bin\Debug\net6.0\dotnet-1.dll
+D:\ASP\dotnet\dotnet-1\bin\Debug\net6.0\dotnet-1.pdb
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\dotnet-1.csproj.AssemblyReference.cache
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\dotnet-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\dotnet-1.AssemblyInfoInputs.cache
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\dotnet-1.AssemblyInfo.cs
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\dotnet-1.csproj.CoreCompileInputs.cache
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\dotnet-1.dll
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\refint\dotnet-1.dll
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\dotnet-1.pdb
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\dotnet-1.genruntimeconfig.cache
+D:\ASP\dotnet\dotnet-1\obj\Debug\net6.0\ref\dotnet-1.dll
